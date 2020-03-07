@@ -1,7 +1,7 @@
 {
-	"name": "@mmstudio/base",
+	"name": "@mmstudio/atom",
 	"version": "1.0.0",
-	"description": "$desc",
+	"description": "",
 	"scripts": {
 		"test": "npm run build && karma start --single-run",
 		"watch": "tsc -w & karma start",
